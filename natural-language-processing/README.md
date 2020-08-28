@@ -1,7 +1,9 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3987961.svg)](https://doi.org/10.5281/zenodo.3987961)
-# Coursera Natural Language Processing Specialization - deeplearning.ai
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3987960.svg)](https://doi.org/10.5281/zenodo.3987960)
+
+# Coursera Natural Language Processing Specialization - deeplearning.ai (In Progress)
+
 > (In progress)  
->  Completed up to Course 2 - Week 2
+>  Completed up to Course 2 - Week 3
 
 [Natural Language Processing - Formula Sheet](./fady-morris_natural-language-processing.pdf)
 
