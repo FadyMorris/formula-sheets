@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3987344.svg)](https://doi.org/10.5281/zenodo.3987344)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3987343.svg)](https://doi.org/10.5281/zenodo.3987343)
 # Coursera Deep Learning Specialization - deeplearning.ai
 
 [Deep Learning - Formula Sheet](./fady-morris_deep-learning.pdf)

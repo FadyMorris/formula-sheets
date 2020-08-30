@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3986729.svg)](https://doi.org/10.5281/zenodo.3986729)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3986728.svg)](https://doi.org/10.5281/zenodo.3986728)
 # Coursera Mathematics for Machine Learning Specialization - Imperial College London
 
 [Mathematics for Machine Learning - Formula Sheet](./fady-morris_mathematics-for-machine-learning.pdf)
