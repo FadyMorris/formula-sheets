@@ -3,7 +3,7 @@
 # Coursera Natural Language Processing Specialization - deeplearning.ai (In Progress)
 
 > (In progress)  
->  Completed up to Course 2 - Week 3
+>  Completed up to Course 2
 
 [Natural Language Processing - Formula Sheet](./fady-morris_natural-language-processing.pdf)
 
