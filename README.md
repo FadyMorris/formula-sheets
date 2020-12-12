@@ -5,4 +5,4 @@ This repository contains mathematics, machine learning and deep learning formula
 ## Coursera
 * [Mathematics for Machine Learning Specailization - Imperial College London](./mathematics-for-machine-learning)
 * [Deep Learning Specialization - deeplearning.ai](./deep-learning)
-* [Natural Language Processing Specialization - deeplearning.ai](./natural-language-processing) _(In progress)_
+* [Natural Language Processing Specialization - deeplearning.ai](./natural-language-processing)
