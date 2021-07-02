@@ -8,5 +8,8 @@ This repository contains mathematics, machine learning and deep learning formula
 * [Natural Language Processing Specialization - deeplearning.ai](./natural-language-processing)
 * [Computer Communications Specialization - University of Colorado](./computer-communications)
 
+## Udacity
+* [Advanced Data Analysis Nanodegree (EgyptFWD)](data-analysis) (In progress)
+
 ## Miscellanous Math
 * [Quantum Computing](./quantum-computing)
