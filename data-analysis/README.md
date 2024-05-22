@@ -1,9 +1,9 @@
 # Udacity Advanced Data Analysis Nanodegree (EgyptFWD) - Formula Sheet and Notes
-> (In Progress)  
+> Completed on March 15, 2021
 
 Sponsored by [Egypt Future Work is Digital](https://egfwd.com)
 
-[PDF File](./fady-ebeid_data-analysis.pdf)
+[Sheet PDF File](./fady-ebeid_data-analysis.pdf)
 
 
 ## Topics
@@ -24,8 +24,6 @@ Sponsored by [Egypt Future Work is Digital](https://egfwd.com)
    2. Univariate Exploration of Data
    3. Bivariate Exploration of Data
    4. Multivariate Exploration of Data
-
-> [Scholarship Link](https://egfwd.com/data/)
 
 --------------------------------------------------------------------
 ## Credential Information
