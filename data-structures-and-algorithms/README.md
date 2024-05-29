@@ -1,7 +1,7 @@
 # Data Structures and Algorithms - Formula Sheet
 > (In progress)
 
-[Data Structures and Algorithms Fomula Sheet PDF](./fady-ebeid_data-structures-algorithms.pdf)
+[Data Structures and Algorithms Fomula Sheet PDF](./fady-ebeid_data-structures-and-algorithms.pdf)
 
 ## Description
 Data structures and algorithms formula sheet contians listings of the basic algorithmic techniques and ideas for computational problems arising frequently in practical applications.
